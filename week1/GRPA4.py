@@ -1,0 +1,6 @@
+e = input ()
+branch = print(e[0:2])
+degree = print(e[3:5])
+year = print(e[6:8])
+roll = print(e[9:13])
+ins = print(e[35:39])
