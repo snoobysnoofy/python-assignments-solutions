@@ -11,6 +11,3 @@ def solution(marks):
         median = marks[l//2]
 
     return median
-
-marks = [100,99,98,97,96,95,10,11,12,13,14,15,16,17]
-print(solution(marks))
