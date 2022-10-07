@@ -8,7 +8,7 @@ for i in a:
         c += 1
         flag = True
 if flag:
-    print("Yes")
+    print("YES")
     print(c)
 else:
-    print("No")
+    print("NO")
