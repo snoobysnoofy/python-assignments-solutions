@@ -1,4 +1,4 @@
-## Some useful resourses
+## Some useful resources
 
 * ### [Python online textbook by IITM](https://pypod.github.io/)
 
@@ -28,7 +28,7 @@
 <b> Note: Some of the shortcuts here are disabled in the portal, but most of them which you need to use will work in the portal IDE</b>
 
 
-Press "<b>`Ctrl + ,`</b>" (comma) to open editor settings to customize it according to your needs. 
+Press `Ctrl + ,` (comma) to open editor settings for customizing it according to your needs. 
 
 
 
