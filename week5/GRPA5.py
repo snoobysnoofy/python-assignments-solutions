@@ -10,15 +10,3 @@ def transpose(mat):
             col.append(mat[j][i])
         tmat.append(col)
     return tmat
-
-
-
-
-
-
-
-mat = [1, 2, 3, 4, 5]
-
-
-
-print(transpose(mat))
