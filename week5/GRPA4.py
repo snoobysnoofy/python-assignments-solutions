@@ -13,7 +13,7 @@ def is_magic(mat):
         dsum2 += mat[l - 1 - i][i]
 
     if dsum1 != dsum2:
-        return "No"
+        return "NO"
 
     
     for i in range(l):
@@ -22,6 +22,6 @@ def is_magic(mat):
             rsum += mat[i][j]
             csum += mat[j][i]
         if rsum != csum:
-            return "No"
+            return "NO"
 
-    return "Yes"
+    return "YES"
