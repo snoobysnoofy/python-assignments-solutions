@@ -22,13 +22,9 @@
 
 ## Tips for using portal IDE.
 
-[Portal Editor Keyboard-Shortcuts](https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts)
+* Press <kbd>Ctrl</kbd> + <kbd>,</kbd> to open editor settings for customizing it according to your needs. 
 
-
-<b> Note: Some of the shortcuts here are disabled in the portal, but most of them which you need to use will work in the portal IDE</b>
-
-
-Press `Ctrl + ,` (comma) to open editor settings for customizing it according to your needs. 
+* Pressing <kbd>F1</kbd> while the cursor is focused on the editor shows the list of keyboard shortcuts.
 
 
 
