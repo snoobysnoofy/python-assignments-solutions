@@ -10,5 +10,3 @@ while n > 0:
         train_dict[comp] = int(count)
     station_dict[train_name] = train_dict
     n = n - 1
-
-print(station_dict)

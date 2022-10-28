@@ -3,8 +3,6 @@ for i in range(8):
     l = input().split(",")
     score_dict[l[0]] = len(l) - 1
 
-print(score_dict)
-
 sorted = []
 while score_dict:
     max_score = -1
